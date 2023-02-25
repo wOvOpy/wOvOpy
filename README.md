@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wOvOpy
-- 👀 I’m interested in kinds of algorithm.
+- 👀 I’m interested in kinds of algorithms.
 - 🌱 I’m currently learning GNN(Graph Nerual Network).
 - 📫 You can reach me by email wOvOpy@gmail.com 
 <!-- - 💞️ I’m looking to collaborate on ... -->
