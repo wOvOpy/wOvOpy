@@ -1,8 +1,8 @@
-<!-- - 👋 Hi, I’m @wOvOpy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 👋 Hi, I’m @wOvOpy
+- 👀 I’m interested in kinds of algorithm.
+- 🌱 I’m currently learning GNN(Graph Nerual Network).
+<1-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 You can reach me by email wOvOpy@gmail.com 
 
 <!---
 wOvOpy/wOvOpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
